@@ -1,0 +1,39 @@
+Title:	Skype™ - scad.lunch
+Class name:	tSkMainForm
+Window handle:	1123630 (0x0011252E)
+Parent window:	0      (0x00000000)
+Owner window:	0      (0x00000000)
+Window ID:	0      (0x00000000)
+Window proc:	0x00000000
+Client coords:	x:   0 y:  30  w: 177 h:  42
+Window coords:	x: 306 y: 103  w: 193 h: 618
+
+Title:	
+Class name:	TMyselfControl
+Window handle:	5964018 (0x005B00F2)
+Parent window:	2434598 (0x00252626)
+Owner window:	0      (0x00000000)
+Window ID:	5964018 (0x005B00F2)
+Window proc:	0x00000000
+Client coords:	x:   4 y:  76  w: 169 h:  32
+Window coords:	x: 717 y: 156  w: 169 h:  32
+
+Title:	ChromeToolbar
+Class name:	TChromeMenu
+Window handle:	2496388 (0x00261784)
+Parent window:	2434598 (0x00252626)
+Owner window:	0      (0x00000000)
+Window ID:	2496388 (0x00261784)
+Window proc:	0x00000000
+Client coords:	x:   0 y:  30  w: 177 h:  42
+Window coords:	x: 713 y: 110  w: 177 h:  42
+
+Title:	
+Class name:	TConversationsControl
+Window handle:	6559334 (0x00641666)
+Parent window:	2434598 (0x00252626)
+Owner window:	0      (0x00000000)
+Window ID:	6559334 (0x00641666)
+Window proc:	0x00000000
+Client coords:	x:   4 y: 108  w: 169 h: 492
+Window coords:	x: 486 y: 239  w: 169 h: 492
